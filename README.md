@@ -7,7 +7,7 @@
 👨‍🎓 Studied Information Management at the University of Technology Mara Kelantan Branch, Malaysia. <br/>
 💻 I learning programming as a hobby and for developement. <br/>
 💭 Dream to be fullstack developer. <br/>
-🏫 Currently learning about HTML, CSS, Javascript, PHP and MYSQL. <br/>
+🏫 Currently learning about Web and Game Development. <br/>
 
 <!-- Tech Stack Use-->
 ## 💻 Tech Stack
