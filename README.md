@@ -22,7 +22,3 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 📊 Stats
-[![Anurag's GitHub stats](https://github-readme-stats-zimos-projects-f7522fd3.vercel.app/api?username=Zimo2005&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zimo2005&layout=compact)
