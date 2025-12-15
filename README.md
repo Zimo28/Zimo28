@@ -24,4 +24,4 @@
 
 <!-- Github Stats -->
 ## 📊 Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zimo28&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zimo28&theme=merko&show_icons=true)
