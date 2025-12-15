@@ -23,4 +23,5 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 <!-- Github Stats -->
+## 📊 Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zimo28&theme=dark&show_icons=true)
