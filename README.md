@@ -1,7 +1,7 @@
 <!-- Create README.md Profile -->
 
 <!-- Header -->
-<img src="header.png" style="border-radius=""20%">
+<img src="header.png" style="border-radius=""20%;">
 
 ---
 
