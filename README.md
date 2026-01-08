@@ -6,7 +6,7 @@
 
 <!-- Make introduction -->
 # 👋 Hi there, I'm Hazim!
----
+
 👨‍💻 I am a student who loves programming. <br/>
 👨‍🎓 Studied Information Management at the University of Technology Mara Kelantan Branch, Malaysia. <br/>
 💻 I learning programming as a hobby and for developement. <br/>
@@ -15,7 +15,7 @@
 
 <!-- Tech Stack Use-->
 ## 💻 Tech Stack
----
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
