@@ -1,7 +1,7 @@
 <!-- Create README.md Profile -->
 
 <!-- Header -->
-<img src="header.png">
+<img src="header.png" style="max-width: 100%;">
 
 ---
 
